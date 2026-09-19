@@ -1,0 +1,37 @@
+# ==============================
+# SECRETS / API KEYS
+# ==============================
+.env
+backend/.env
+frontend/.env
+
+# ==============================
+# PYTHON
+# ==============================
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ==============================
+# NODE / REACT
+# ==============================
+frontend/node_modules/
+frontend/dist/
+
+# ==============================
+# GENERATED OUTPUT
+# ==============================
+backend/generated_designs/
+backend/generated_models/
+
+# ==============================
+# EDITOR / WINDOWS
+# ==============================
+.vscode/
+.DS_Store
+Thumbs.db
+
+backend/generated_designs/
+backend/generated_models/
