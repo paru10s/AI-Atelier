@@ -27,7 +27,6 @@ It also allows users to compare **lower, balanced, and premium budget options**,
 
 - [Presenatation Deck (PDF)](docs/AI_Atelier_ppt.pdf)
 - [Prompts_documentation(PDF)](docs/AI_Atelier_prompts_doc.pdf)
-
 - [Video Demonstration](https://drive.google.com/file/d/1WF-Vd7FhaD3aB65JORSIp7W5rhG0gyjr/view?usp=)
 - [Sample Outputs](sample_outputs/)
 
